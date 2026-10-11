@@ -1,0 +1,6 @@
+{
+  "name": "CareConnect Health",
+  "description": "AI-Powered Patient Support and Healthcare Information Platform for plain-language healthcare guidance, discharge instructions simplification, clinic navigation, and support escalation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
